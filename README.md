@@ -1,3 +1,5 @@
+l257737602注：这个Github仓库是[https://github.com/giancarloantonucci/]的分支。我打算把*Luciano Canepari*的著作*Natural Phonetics & Tonetics*人工地转成md格式，在这里存放一下这个过程的中间产物。至于为什么要人工地转换呢？我试过十几个pdf转word的方法，转出来的效果都不太理想，索性就自己上手了。
+
 # SimonCani
 
 [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
