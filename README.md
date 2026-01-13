@@ -1,4 +1,4 @@
-l257737602注：这个Github仓库是[https://github.com/giancarloantonucci/]的分叉。我打算把*Luciano Canepari*的著作*Natural Phonetics & Tonetics*人工地转成md格式，在这里存放一下这个过程的中间产物。至于为什么要人工地转换呢？我试过十几个pdf转word的方法，转出来的效果都不太理想，索性就自己上手了。
+l257737602注：这个Github仓库是[https://github.com/giancarloantonucci/] 的分叉。我打算把*Luciano Canepari*的著作*Natural Phonetics & Tonetics*人工地转成md格式，在这里存放一下这个过程的中间产物。至于为什么要人工地转换呢？我试过十几个pdf转word的方法，转出来的效果都不太理想，索性就自己上手了。
 以下是分叉来源仓库中的Readme内容：
 
 ---
